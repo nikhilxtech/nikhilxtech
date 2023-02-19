@@ -12,3 +12,5 @@ I'm Nikhil.
 <p align='center'>Code with passion, create with purpose.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+![Visitor Count](https://profile-counter.glitch.me/{nikhil-verma9}/count.svg)
