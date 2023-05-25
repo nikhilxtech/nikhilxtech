@@ -27,3 +27,6 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{nikhil-verma9}/count.svg)
+
+
+[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNikhil7&theme=rogue)](https://github.com/DevNikhil7/github-readme-activity-graph)
