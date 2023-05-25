@@ -6,10 +6,8 @@
 
 
 <!--🖼️RICK-->
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Nikhil.
-</p>
+<h1 align='center'> Hi! :wave: I am Nikhil, an aspiring web developer from India</h1>
+
 <p align='center'>Code with passion, create with purpose.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
