@@ -6,7 +6,7 @@
 
 
 <!--🖼️RICK-->
-<h1 align='center'> Hi! :wave: I am Nikhil, an aspiring web developer from India</h1>
+<h1 align='center'> Hi! :wave: I am Nikhil, a passionate software engineer from India</h1>
 
 <p align='center'>Code with passion, create with purpose.</p>
 
