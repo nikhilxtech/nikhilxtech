@@ -12,21 +12,4 @@
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-## 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikhil-verma7&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-verma7&hide_border=true&theme=radical" />
-</p>
-
-
-## 🔝 Most used languages
-<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-verma7&layout=compact&hide_border=true&theme=radical" />
-</p>
-
-
-![Visitor Count](https://profile-counter.glitch.me/{nikhil-verma7}/count.svg)
-
-
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhil-verma7&theme=rogue)](https://github.com/nikhil-verma7/github-readme-activity-graph)
